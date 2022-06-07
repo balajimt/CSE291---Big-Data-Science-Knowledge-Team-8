@@ -4,4 +4,4 @@
 
 ## Folder structure
 The folder structure is as follows:
-`imputer.py` - MissForest imputer code to fill in missing values in the dataset
+* `imputer.py` - MissForest imputer code to fill in missing values in the dataset
