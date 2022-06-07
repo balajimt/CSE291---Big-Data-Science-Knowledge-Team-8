@@ -15,6 +15,8 @@ Project specifics:
 ## Folder structure
 The folder structure is as follows:
 * `imputer.py` - MissForest imputer code to fill in missing values in the dataset
+* `CSE_291_Final.ipynb` - Python notebook which performs data processing and evaluation (with a focus on Model 2).
+* `CSE291_notebook.ipynb` - Python notebook which trains and evaluates all the different models as described in the report.
 
 ## Acknowledgements
 Special thanks to Prof. Nuno Bandeira and Duong Nguyen for helping us throughout the course of this project.
