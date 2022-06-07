@@ -8,8 +8,8 @@ Balaji Muthazhagan (@balajimt), Keerthana Sundaresan (@keerthana1299), Prajwala 
 To build a condition classifier  to define models for associations between data vectors and class labels. 
 
 Project specifics:
-* `Dataset used` -  COVID19 sera: 4 classes, 90 patients (1 sample per patient). The groups in this dataset cover cases where patients (i) are healthy, (ii) are symptomatic without COVID19, (iii) have non-severe COVID19 or (iv) have severe-COVID19.
-* `Classes considered` - `Covid` and `No-Covid`
+* Dataset -  COVID19 sera: 4 classes, 90 patients (1 sample per patient). The groups in this dataset cover cases where patients (i) are healthy, (ii) are symptomatic without COVID19, (iii) have non-severe COVID19 or (iv) have severe-COVID19.
+* Classes - `Covid` and `No-Covid`
 
 
 ## Folder structure
