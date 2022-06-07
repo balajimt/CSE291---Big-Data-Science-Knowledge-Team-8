@@ -1,6 +1,6 @@
 # CSE291 Big-Data-Science-Knowledge
 ## Team 8
-### Balaji Muthazhagan, Keerthana Sundaresan, Prajwala Thatha Manjunatha, Sanjana Balamurugan
+Balaji Muthazhagan, Keerthana Sundaresan, Prajwala Thatha Manjunatha, Sanjana Balamurugan
 
 ## Problem Statement
 
@@ -14,3 +14,6 @@ Project specifics:
 ## Folder structure
 The folder structure is as follows:
 * `imputer.py` - MissForest imputer code to fill in missing values in the dataset
+
+## Acknowledgements
+Special thanks to Prof. Nuno Bandeira and Duong Nguyen for helping throughout the course of this project.
