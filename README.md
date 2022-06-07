@@ -1,4 +1,5 @@
-# CSE291 Big-Data-Science-Knowledge
+# CSE291 Big Data Science & Knowledge (Spring 2022)
+
 ## Team 8
 Balaji Muthazhagan, Keerthana Sundaresan, Prajwala Thatha Manjunatha, Sanjana Balamurugan
 
